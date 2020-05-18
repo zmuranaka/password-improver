@@ -1,0 +1,80 @@
+/*
+File: styles.css
+Zachary Muranaka
+Styles for index.html
+*/
+
+/* Structural styles */
+
+body {
+    width: 100%;
+    min-width: 320px; /* Narrowest screen in common use */
+    margin: 0;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 { font-size: 5vh }
+
+p {
+    margin: 5vh auto;
+    font-size: 3vh;
+}
+
+input { margin: 3vh auto }
+
+input[type=text] {
+    padding: 1vh 0;
+    background: none;
+    text-align: center;
+}
+
+input[type=text], #improvedPassword {
+    width: 95%;
+    color: gray;
+    font-size: 3vh;
+}
+
+input[type=button] {
+    width: 95%;
+    height: 8vh;
+    padding: 0;
+    background: green;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    font-size: 4vh;
+}
+
+input[type=button]:hover { background: yellowgreen }
+
+input[type=button]:active {
+    background: yellow;
+    color: darkgreen;
+}
+
+input[type=text]:focus {
+    background: rgb(240, 255, 255);
+    border: 1px solid blue;
+}
+
+/* Footer styles */
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 1em;
+    background: linear-gradient(rgb(0, 0, 204), midnightblue);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    font-variant: small-caps;
+}
+
+footer a {
+    display: inline-block;
+    margin: 1em 1em 1em 0;
+    color: white;
+    text-decoration: none;
+}
