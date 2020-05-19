@@ -2,7 +2,7 @@
 
 ## What is this Project?
 
-This is a simple web application that improves passwords by randomly changing the capitalization of letters or replacing them with numbers or symbols that look similar. No symbols that require alt codes are used.
+This is a simple web application that improves passwords by randomly changing the capitalization of letters or replacing them with numbers or symbols that look similar. No symbols that require alt codes are used. The site is published on my GitHub Pages at https://zmuranaka.github.io/password-improver/.
 
 ## Directories:
 

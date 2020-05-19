@@ -1,7 +1,7 @@
 /*
 File: styles.css
 Zachary Muranaka
-Styles for index.html
+Styles for the password improver index.html
 */
 
 /* Structural styles */
@@ -20,6 +20,8 @@ p {
     margin: 5vh auto;
     font-size: 3vh;
 }
+
+/* Input styles */
 
 input { margin: 3vh auto }
 
