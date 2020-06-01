@@ -2,14 +2,14 @@
 
 ## What is this Project?
 
-This is a simple web application that improves passwords by randomly changing the capitalization of letters or replacing them with numbers or symbols that look similar. No symbols that require alt codes are used. The site is published on my GitHub Pages at https://zmuranaka.github.io/password-improver/.
+This is a simple web application that utilizes jQuery to improve passwords by randomly changing the capitalization of letters or replacing them with numbers or symbols that look similar. No symbols that require alt codes are used. The site is published on my GitHub Pages at https://zmuranaka.github.io/password-improver/.
 
 ## Directories:
 
 images  
 &nbsp;&nbsp;&nbsp;&nbsp;This folder contains the social media logos.  
 scripts  
-&nbsp;&nbsp;&nbsp;&nbsp;This folder contains the JavaScript that improves the user's password.  
+&nbsp;&nbsp;&nbsp;&nbsp;This folder contains the JavaScript (using jQuery) that improves the user's password.  
 styles  
 &nbsp;&nbsp;&nbsp;&nbsp;This folder contains the stylesheet for the website.  
 
@@ -19,6 +19,8 @@ I got the GitHub logo from [GitHub](https://github.com/logos) and I created the 
 Websites that helped me create the project:  
 https://jshint.com/  
 &nbsp;&nbsp;&nbsp;&nbsp;JSHint was a helpful tool when checking that my JavaScript syntax was correct.  
+https://api.jquery.com/  
+&nbsp;&nbsp;&nbsp;&nbsp;The jQuery API was a helpful tool when checking my jQuery functions and general syntax.  
 https://www.w3schools.com/  
 &nbsp;&nbsp;&nbsp;&nbsp;W3Schools was very helpful when I was checking that my syntax was correct and as a general reference.
 
